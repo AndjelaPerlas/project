@@ -1,0 +1,94 @@
+ [
+  {
+  "name" : "Planina Tara",
+  "picture" : {
+        "src": "img-6.jpg",
+        "alt":"Planina Tara"
+     },
+  "info": {
+      "departure": "13.04.2018 (08:00h)",
+      "return" : "23.04.2018  (21:30h)",
+      "stay": "10 dana",
+      "transport": "autobus na sprat",
+      "apartment": "hotel sa 5 zvezdica",
+      "price": 70
+     }
+   },
+
+  {
+  "name" : "Zaovinsko jezero",
+  "picture" : {
+        "src": "lake1.jpg",
+        "alt":"Zaovinsko jezero"
+    },
+  "info": {
+      "departure": "15.06.2018 (07:00h)",
+      "return" : "22.06.2018 (22:00h)",
+      "stay": "7 dana",
+      "transport": "mini bus",
+      "apartment": "hotel sa 5 zvezdica",
+      "price": 50
+    }
+  },
+
+  {
+  "name" : "Šarganska osmica",
+  "picture" : {
+        "src": "train.jpg",
+        "alt":"Šarganska osmica"
+     },
+  "info": {
+      "departure": "15.07.2018 (06:00h)",
+      "return" : "17.07.2018 (21:00h)",
+      "stay": "3 dana",
+      "transport": "mini bus",
+      "apartment": "hotel sa 4 zvezdica",
+      "price": 40
+    }
+  },
+  {
+  "name" : "Jarevac",
+  "picture" : {
+       "src": "jarevac.jpg",
+       "alt":"Jarevac"
+     },
+  "info": {
+      "departure": " 03.08.2018 (07:00h)",
+      "return" : " 08.08.2018 (20:00h)",
+      "stay": " 5 dana",
+      "transport": " prevoznik 'Marković'",
+      "apartment": "hotel 'Jarevac'",
+      "price": 55
+      }
+  },
+  {
+  "name" : "Jezero Perućac",
+  "picture" : {
+        "src": "perućac.jpg",
+        "alt":"Jezero Perućac"
+      },
+  "info": {
+      "departure": " 20.08.2018 (06:00h)",
+      "return" : " 27.08.2018 (22:00h)",
+      "stay": " 7 dana",
+      "transport": "autobus na sprat",
+      "apartment": "hotel 'Perućac'",
+      "price": 65
+    }
+  },
+  {
+  "name" : "Mećavnik",
+  "picture" : {
+       "src": "mecavnik.jpg",
+       "alt":"Mećavnik"
+     },
+  "info": {
+      "departure": " 15.12.2018 (06:00h)",
+      "return" : " 22.12.2018 (21:00h)",
+      "stay": " 7 dana",
+      "transport": " prevoznik 'Danilović'",
+      "apartment": "apartmani 'Mećavnik'",
+      "price": 80
+    }
+   }
+ ]

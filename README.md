@@ -1,2 +1,2 @@
-# project
-National park Tara school project
+# school project
+National park Tara
